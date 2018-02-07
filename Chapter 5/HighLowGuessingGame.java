@@ -8,8 +8,9 @@
   to quit.  Count the number of guesses and report that value when the user 
   guesses correctly.  At the end of each game (by quitting or a correct guess),
   prompt to determine whther the user wants to play again.  Continue playing 
-  games until the user chooses to stop.
- */
+  games until the user chooses to stop. */
+  //Project 5.4
+ 
 import java.util.*;
 public class HighLowGuessingGame {
     public static void main(String[]args) {
